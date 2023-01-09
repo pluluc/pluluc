@@ -1,5 +1,5 @@
 
-### Olá, me chamo Pedro Lucas, acadêmico de Ciência da Computação, amigo da vizinhança e cinéfilo nas horas vagas;
+### Olá, me chamo Pedro Lucas, acadêmico de Ciência da Computação, amigo da vizinhança, e cinéfilo nas horas vagas;
 
 - 🔭 Atualmente no terceiro período de Ciência da Computação;
 - 🌱 No momento estou estudando POO e Estrutura de Dados;
