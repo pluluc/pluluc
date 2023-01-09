@@ -5,10 +5,11 @@
 - 🌱 No momento estou estudando POO e Estrutura de Dados;
 - 🦉 Pronomes: Ele/dele;
 
-<div align="left">
+<!--<div align="left">
   <a href="https://github.com/pluluc">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pluluc&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 </div>
+-->
 
   
 <div style="display: inline_block"><br>
