@@ -1,8 +1,8 @@
 
 ### Hi there! I'm Pedro, comp sci student, comunnity friend and an art lover;
 
-- 🔭 Atualmente no terceiro período de Ciência da Computação;
-- 🌱 No momento estou estudando POO e Estrutura de Dados;
+- 🔭 Atualmente no quinto período de Ciência da Computação;
+- 🌱 No momento tô estudando Web, programação funcional, e outros babados aí;
 - 🦉 Pronomes: Ele/dele;
 
 <!--<div align="left">
